@@ -1,56 +1,25 @@
 # Setup
 
-This section documents your practical work in week 2.
+Today was the first day of our Software Engineering module.
 
-The main requirements are to show that:
+Following a lecture on what the module will contain, we had our practical lesson where we were assigned into teams. 
 
-1. Your development environment is correctly set up
-2. You understand the setup including potential alternative configuration settings
+We were tasked with ensuring our development environments were setup correctly, creating and accessing a shared Github repo for our team, and making sure we can clone and commit repos.
 
 ## Environment configuration
 
-Here, you should include appropriate screenshots with additional commentary. 
+I managed to configure my environment and have taken some screenshots to evidence this:
 
-**DO**
+<figure>
+  <img src="https://github.com/Aidan40661224/Portfolio_Aidan/blob/main/images/RepoSC.PNG">
+  <figcaption align = "center"><b>Fig.1 - This image shows I have successfully created and commited a repo</b></figcaption>
+</figure>
 
-* Place your image files in the `images` folder
-* Choose your screenshots carefully so that they communicate the appropriate information.
-  Many screenshots with no clear purpose or with trivial differences are of little value.
-* Provide <ins>descriptive</ins> commentary to explain why the screenshot is included. 
-  what it shows and point out any particularly significant details.
-* Modify your screenshots - for example, by adding arrows, outlines or other highlighting 
-  techniques - to enhance their communication value.
-* Remove unnecessary material from your screenshots such as toolbars, other windows and 
-  computer desktop to eliminate distractions.
-* Ensure that any important content is clearly legible. Pay particular attention to text
-  size and image resolution.
-* Use [numbered captions](https://towardsdev.com/3-ways-to-add-a-caption-to-an-image-using-markdown-f2ca30562be6) 
-  as labels for images. Also, use the caption numbers to refer to images in your text.
-
-**DON'T**
-
-* Expect the reader to understand your reasons for including a screenshot. If you can't
-  explain it, the screenshot will not do the job on its own.
-* Include self-evident comments. For example, don't simply list the values used on a
-  configuration page if those values are clearly visible in the screenshot.
+Here you can see I have created and committed a test project, I have a template of our portfolio as well as my personal portfolio, and I also have access to our team repo.
 
 ## Reflection
 
-For this section, decide what points are worth making and structure your content 
-appropriately.
-
-**DO**
-
-* Use sub-headings to differentiate between sections
-* Provide <ins>reflective</ins> commentary that discusses, for example, limitations of
-  your current configuration, how your configuration is appropriate for the current 
-  project, alternative configuration that might be appropriate in ther circumstances, 
-  etc.
-* Mention any difficulties you had setting up your working environment and how you 
-  resolved them
-
-**DON'T**
-
-* Repeat the descriptive commentary from point 1
-* Give a blow-by-blow account of everything you did. Instead, you should highlight 
-  the important points.
+I believe this configuration is suitable for our group work as it provides excellent version control capabilities, and allows us to view, review and edit our work as we go.
+This will be crucial while working in a large team as there will be lots of moving parts working simultaneously.
+However one limitation that became apparent fairly early on was that a lot of people in our team haven't used Github before, or weren't very confident using it.
+This will provide some challenges in the early stages of our group work as it will take some people a little bit of time to get up to speed with Github, however luckily we have a few members who have experience using it and can assist those who need it.
