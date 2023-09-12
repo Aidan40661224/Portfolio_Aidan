@@ -8,27 +8,27 @@ We were tasked with ensuring our development environments were setup correctly, 
 
 ## Environment configuration
 
-I managed to configure my environment and have taken some screenshots to evidence this:
+I managed to complete these tasks and have the following screenshots to evidence this:
 
 <figure>
-  <img src="https://github.com/Aidan40661224/Portfolio_Aidan/blob/main/images/RepoSC.PNG">
   <figcaption align = "center"><b>Fig.1 - This image shows I have successfully created a test repo, my portfolio along with an example, and I can access the team's shared repo</b></figcaption>
+  <img src="https://github.com/Aidan40661224/Portfolio_Aidan/blob/main/images/RepoSC.PNG">  
 </figure>
 
 <figure>
-  <img src="https://github.com/Aidan40661224/Portfolio_Aidan/blob/main/images/projectboard.PNG">
   <figcaption align = "center"><b>Fig.2 - Here you can see a project has been set up in Github with an integrated taskboard</b></figcaption>
+  <img src="https://github.com/Aidan40661224/Portfolio_Aidan/blob/main/images/projectboard.PNG">  
 </figure>
 
-<figure>
-  <img src="https://github.com/Aidan40661224/Portfolio_Aidan/blob/main/images/pushexample.PNG">
+<figure>  
   <figcaption align = "center"><b>Fig.3 - Evidence that I have cloned the shared repo and pushed a test change</b></figcaption>
+  <img src="https://github.com/Aidan40661224/Portfolio_Aidan/blob/main/images/pushexample.PNG">
 </figure>
 
 <figure>
-  <img src="https://github.com/Aidan40661224/Portfolio_Aidan/blob/main/images/dotnetmaui.PNG">
   <figcaption align = "center"><b>Fig.4 - This shows I have configured Visual Studio for using .NET MAUI</b></figcaption>
-</figure>
+  <img src="https://github.com/Aidan40661224/Portfolio_Aidan/blob/main/images/dotnetmaui.PNG">
+  </figure>
 
 ## Reflection
 
@@ -39,3 +39,5 @@ This will be crucial while working in a large team as there will be lots of movi
 However one limitation that became apparent fairly early on was that a lot of people in our team haven't used Github before, or weren't very confident using it.
 
 This will provide some challenges in the early stages of our group work as it will take some people a little bit of time to get up to speed with Github, however luckily we have a few members who have experience using it and can assist those who need it.
+
+A potential alternative to Github that may be more familiar to everyone and easier to use might have been Google Drive, however that provides it's own challenges as it doesn't offer the same level of version control or IDE integration as Github, therefore I believe Github is our best option.
