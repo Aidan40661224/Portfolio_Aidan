@@ -1,18 +1,10 @@
 # Workflow
 
-This section documents your practical work in week 3.
+This week I attended our lecture where we covered life cycles and development models relating to Software Engineering, and different types of team work flows and how all of these things can be combined to efficiently make good quality products that satisfy clients/users.
 
-The main requirements are to show that:
+This was then followed by a practical session in a computer lab where we, in our teams, decided on a workflow we would follow while working on github issues, before allocating issues to each person to complete. I also familiarised myself with .Net Maui by following the tutorials on how to create a test app that allows you to create notes and a to-do list which uses an SQLite database.
 
-1. You know how to use the workflow tools in GitHub
-2. You have successfully carried out the required operations which are:
-   * Accept a task from the project backlog
-   * Update the task information appropriately
-   * Update the task board appropriately
-   * Complete the development task on a feature branch
-   * Commit your changes with appropriate comments
-   * Check your work against the Definition of Done (DoD)
-   * Make a pull request
+The issue I was allocated was: INSERT ISSUE DESCRIPTION HERE
 
 ## Task workflow
 
@@ -41,10 +33,10 @@ have been completed successfully.
 
 ## Reflection
 
-Here, you should highlight any difficulties that you faced in completing the task, and
-how you resolved them.
+Having come from a games development background, completing my HND at college, I have had limited experience at using databases. This proved a slight challenge as I am not as confident with implementing these as others may be. However I followed the tutorial closely and paid attention to the explanations given, and further researched or reached out to my team mates with any questions I had or any errors I encountered. 
 
-You should also briefly discuss the current process and how it could be refined or
-improved in future iterations. For example, is the DoD adequate or too onerous? Is the
-current procedure for updating the task appropriate? Is the task board configured to
-work in an intuitive way?
+I feel the DoD is adequate as it is comprehensive enough that any sub standard work cannot be considered done, however it does have some flexibility in that acceptance criteria can be reviewed and negotiated if required. 
+
+I feel the task board is intuitive enough and allows you to create, update and complete tasks easily enough. 
+
+You should also briefly discuss the current process and how it could be refined or improved in future iterations. For example, is the DoD adequate or too onerous? Is the current procedure for updating the task appropriate? Is the task board configured to work in an intuitive way?
