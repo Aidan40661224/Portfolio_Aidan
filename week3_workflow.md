@@ -10,25 +10,23 @@ The issue I was allocated was to create a table on a database for storing variou
 
 As a team we elected to follow the Github Flow workflow. This will allow us all to work individually on the shared project by creating our own branches to make changes without editing the main file incase we introduce any errors or bugs.
 
-After being given administrative priviliges on the project board, I assigned myself the task on github, updated the task as 'in progress' and commented on it advising I would be completing it. I then moved all other assigned tasks that were still in the 'To Do' list, to 'In Progress'.
-
 <figure>  
   <img src="https://github.com/Aidan40661224/Portfolio_Aidan/blob/main/images/TaskBoardAssigned.PNG">  
   <figcaption align = "center"><b>Fig.1 - My assigned task on the project board</b></figcaption>  
 </figure>
-
-I then created a branch on in Visual Studio allowing me to implement changes without affecting the main repo. I have been able to pull updates to the main repo onto my branch as well as push my branch onto github so I can access it remotely rather than just locally.
+After being given administrative priviliges on the project board, I assigned myself the task on github, updated the task as 'in progress' and commented on it advising I would be completing it. I then moved all other assigned tasks that were still in the 'To Do' list, to 'In Progress'.
 
 <figure>  
   <img src="https://github.com/Aidan40661224/Portfolio_Aidan/blob/main/images/Branch.PNG">  
   <figcaption align = "center"><b>Fig.2 - The branch I created of our main repo</b></figcaption>  
 </figure>
+I then created a branch on in Visual Studio allowing me to implement changes without affecting the main repo. I have been able to pull updates to the main repo onto my branch as well as push my branch onto github so I can access it remotely rather than just locally.
 
-I also created the To-Do list app as per the tutorials provided for our practical.
 <figure>  
   <img src="https://github.com/Aidan40661224/Portfolio_Aidan/blob/main/images/ToDo.PNG">  
   <figcaption align = "center"><b>Fig.3 - To Do List app</b></figcaption>  
 </figure>
+I also created the To-Do list app as per the tutorials provided for our practical.
 
 I have also implemented Github Desktop to make following Github Flow easier.
 
