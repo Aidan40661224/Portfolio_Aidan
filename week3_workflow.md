@@ -26,6 +26,7 @@ I then created a branch on in Visual Studio allowing me to implement changes wit
 
 I have also implemented Github Desktop to make following Github Flow easier.
 
+Unfortunately due to an error with our app when we try to build it (as detailed in this week's reflection) I have not been able to complete my issue and implement the table for equipment types. I will however continue working on it and implement it in successfully as soon as possible.
 
 ## Reflection
 
