@@ -21,7 +21,13 @@ I then created a branch on in Visual Studio allowing me to implement changes wit
 
 <figure>  
   <img src="https://github.com/Aidan40661224/Portfolio_Aidan/blob/main/images/Branch.PNG">  
-  <figcaption align = "center"><b>Fig.1 - The branch I created of our main repo</b></figcaption>  
+  <figcaption align = "center"><b>Fig.2 - The branch I created of our main repo</b></figcaption>  
+</figure>
+
+I also created the To-Do list app as per the tutorials provided for our practical.
+<figure>  
+  <img src="https://github.com/Aidan40661224/Portfolio_Aidan/blob/main/images/ToDo.PNG">  
+  <figcaption align = "center"><b>Fig.3 - To Do List app</b></figcaption>  
 </figure>
 
 I have also implemented Github Desktop to make following Github Flow easier.
