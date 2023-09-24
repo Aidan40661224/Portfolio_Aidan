@@ -1,6 +1,6 @@
 # Workflow
 
-This week I attended our lecture where we covered life cycles and development models relating to Software Engineering, and different types of team work flows and how all of these things can be combined to efficiently make good quality products that satisfy clients/users.
+This week I attended our lecture where we covered life cycles and development models relating to Software Engineering, and different types of team work flows and how all of these things can be combined to efficiently make good quality products that satisfy clients and users.
 
 This was then followed by a practical session in a computer lab where we, in our teams, decided on a workflow we would follow while working on github issues, before allocating issues to each person to complete. I also familiarised myself with .Net Maui by following the tutorials on how to create a test app that allows you to create notes and a to-do list which uses an SQLite database.
 
