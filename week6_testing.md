@@ -20,12 +20,13 @@ This week we learned about the importance of unit testing, and how to carry thes
 The code I was testing was the CheckLetterInWord() method of a Hangman game. The purpose of this method is to check if the letter provided by the player was included in the word they are trying to guess. If the letter __is__ included, the method should return __true__. However if the letter __is not included__, the method should return __false__.
 
 ```
-namespace Test_CheckLetterInWord_False
+namespace Test_CheckLetterInWord
 {
-    public class UnitTest1
+    public class UnitTest
     {
         [Fact]
-        public void Test1()
+        public void Test_CheckLetterInWord_False()
+
         {
             // This unit test tests whether the CheckLetterInWord() method returns false if the answer given by the player isn't 
             // included in the word
