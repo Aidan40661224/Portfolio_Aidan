@@ -19,6 +19,8 @@ This week we learned about the importance of unit testing, and how to carry thes
 
 The code I was testing was the CheckLetterInWord() method of a Hangman game. The purpose of this method is to check if the letter provided by the player was included in the word they are trying to guess. If the letter __is__ included, the method should return __true__. However if the letter __is not included__, the method should return __false__.
 
+Since I had never done unit testing before, I paired up with Guy who was in the same position as me. This allowed us to support each other through the process of learning and implementing our unit tests.
+
 ```
 namespace Test_CheckLetterInWord
 {
@@ -62,6 +64,8 @@ public void Test_CheckLetterInWord_True()
     Assert.Equal(expected, gamePage.CheckLetterInWord(word, answer));
 }
 ```
+
+This unit test works in the same way as the first one I discussed, but it tests to check that if the letter provided by the player is included in the word they are guessing, that the function returns true.
 
 # Reflection
 Having not done unit testing before this was a fairly new concept for me to implement, although the theory of how they are done was what I expected. Unfortunately I haven't been able to link the word variable to the wordList.txt file provided, however I tested my unit tests with multiple combinations of words and answers so I am confident it has been implemented correctly. 
