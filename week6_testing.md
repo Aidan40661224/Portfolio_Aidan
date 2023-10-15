@@ -46,5 +46,21 @@ This code takes the answer provided by the player (variable 'answer') and the wo
 
 When the test is run in this setup it passes, however if you change the answer to a letter that is in the word, it fails the test. This shows that the test works as intended. 
 
+```
+[Fact]
+public void Test_CheckLetterInWord_True()
+{
+    // This unit test tests whether the CheckLetterInWord() method returns true if the answer given by the player is 
+    // included in the word
+
+    string gameType = "Easy";
+    string word = "toe";
+    char answer = 'o';
+    bool expected = true;
+    GamePage gamePage = new GamePage(gameType);
+    Assert.Equal(expected, gamePage.CheckLetterInWord(word, answer));
+}
+```
+
 # Reflection
 Having not done unit testing before this was a fairly new concept for me to implement, although the theory of how they are done was what I expected. Unfortunately I haven't been able to link the word variable to the wordList.txt file provided, however I tested my unit tests with multiple combinations of words and answers so I am confident it has been implemented correctly. 
