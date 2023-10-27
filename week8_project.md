@@ -19,3 +19,32 @@ the various dimensions of software engineering into your practice. It should inc
 
 Be sure to include links to the original items in the team's GitHub repository.
 
+This week my issue was to add the ability for an UNDAC Deputy Team Leader to maintain a list of team members so they can be contacted immediately. To complete this task the all team members must be listed, details of a particular team member must be viewed, the list must be filtered by full text search, skill, assignment etc, and the filters must be able to be cleared.
+
+As I am not particularly confident implementing these features in .Net Maui I haven't been able to complete all of them, however I will continue working on them and try to implement them all.
+
+Some examples of my code are:
+
+```
+namespace UNDAC_App.Models
+{
+    public class TeamMember
+    {
+        public string name { get; set; }
+        public string email { get; set; }
+        public int phone { get; set; }
+
+    }
+}
+```
+This class creates a team member to be added to the list. This class is simple, it only does one thing (initialize the object), and can easily be expanded upon in the future if more information needs to be added for team members, such as addresses or skills.
+
+```
+private void ViewTeamMembersClicked(object sender, EventArgs e)
+{
+    Shell.Current.GoToAsync(nameof(TeamMemberList));
+}
+```
+This function again is simple, as it only does one thing. The function name is a verb, and there are a small number of parameters. 
+
+Both of these snippets also don't repeat themselves, and don't include any code that isn't needed. This helps keep it readable, efficient, and expandable.
