@@ -1,27 +1,6 @@
 # Project work 1
 
-In week 8, you are exercising all the principles and techniques that have been discussed 
-in the module so far. Your portfolio entry should demonstrate your ability to integrate 
-the various dimensions of software engineering into your practice. It should include 
-
-* A descriptive summary of the issue that you worked on.
-* Snippets from your code with commentary showing how you have used good software design 
-  practice.
-* A descriptive summary of the test code that you have written.
-* A reflective summary of any changes that were requested during the code review along 
-  with your fixes.
-* A descriptive summary of any issues you found with the code that you were asked to review.
-* A general reflective section that identifies, for example,
-  * New things you have realised this week
-  * Common problems that can arise in a team development situation
-  * How your practice compares to other people's
-  * etc.
-
-Be sure to include links to the original items in the team's GitHub repository.
-
 This week my issue was to add the ability for an UNDAC Deputy Team Leader to maintain a list of team members so they can be contacted immediately. To complete this task the all team members must be listed, details of a particular team member must be viewed, the list must be filtered by full text search, skill, assignment etc, and the filters must be able to be cleared.
-
-As I am not particularly confident implementing these features in .Net Maui I haven't been able to complete all of them, however I will continue working on them and try to implement them all.
 
 __Some examples of my code are:__
 
@@ -88,7 +67,22 @@ Unfortunately due to an error in my .xaml.cs file which I haven't been able to r
 
 __My code review feedback__
 
+The feedback I recieved from DevDevinder in my code review seemed to indicate overall my code had followed the clean code rules generally well, apart from 
 
+```
+foreach (var value in TeamMembers)
+		{
+			if (!filteredItems.Contains(value))
+				TeamMembers.Remove(value);
+			else if (!TeamMembers.Contains(value))
+				TeamMembers.Add(value);
+		}
+```
+which was commented on as being redundant, however this is due to an error I made with my search filter code and is more down to not implementing this feature correctly, rather than redundant code as a result of repeating things for the sake of repeating things. 
+
+They also advised it could benefit from some documentation comments at the top of my classes/methods, which is something I will consider for the future.
+
+My reviewer gave me some good tips on how to improve this code and the feature which I will endeavour to implement as soon as I can.
 
 __Feedback I gave__
 
