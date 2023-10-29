@@ -92,6 +92,9 @@ __My code review feedback__
 
 __Feedback I gave__
 
+I carried out a code review for findingaadi (Adarsha) who was working on issue #64. I made sure to carefully read through the changes in all files, marking them as viewed and adding any relevant comments regarding the cleanliness of the code. Generally the code itself I felt followed clean code principles and there weren't any changes required. I provided some feedback in each file as a comment, advising that I felt he followed the DRY, YAGNI, KISS principles, his variables were named well and there wasn't any redundant code I could see. 
+
+I gave one suggestion of moving a class into a seperate file under the 'Models' folder, however I felt that this wasn't totally necessary as it didnt contravene any clean code rules that I am aware of. 
 
 
 # Reflection
