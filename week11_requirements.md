@@ -53,6 +53,12 @@ I believe this code still follows clean code principles as the method is suitabl
 
 __Feedback I recieved__
 
+Findaadi commented Nov 19, 2023
+
+The coderequest change has been fulfilled, has used appropriate data types in this change as requested. approved.
+
+This is the feedback I recieved from Adarsha after changing the variable types for the capacity variables, I am happy with this feedback as the branch can now be merged and the code is better.
+
 __Feedback I gave__
 
 __Reflection__
