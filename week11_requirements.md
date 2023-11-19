@@ -1,22 +1,5 @@
 ## Project work 4
 
-Week 10 is the third and last week in a series in which the goal is to improve your personal software engineering practice. Your portfolio entry has the same general content as last week's, including:
-
-    A descriptive summary of the issue that you worked on.
-    Snippets from your code with commentary showing how you have used good software design practice.
-    A descriptive summary of the test code that you have written.
-    A reflective summary of any changes that were requested during the code review along with your fixes.
-    A descriptive summary of any issues you found with the code that you were asked to review.
-    A general reflective section that identifies, for example,
-        New things you have realised this week
-        Common problems that can arise in a team development situation
-        How your practice compares to other people's
-        etc.
-
-Be sure to include links to the original items in the team's GitHub repository.
-
-In the reflective sections this week, you should highlight ways that you persona practice has improved as before. It would also be good to reflect on any improvements that have been made to the agreed team workflow and related procedures. Are things working better than they were? What further improvements could be made in the future?
-
 This week I worked on improving my code from previous weeks as I had some outstanding code review changes to be completed. 
 
 In week 9 I added the ability for accomodation status' to be viewed and added to a database, however the capacities were passed as strings. Here is how I improved that code by passing them as integers:
@@ -60,6 +43,8 @@ The coderequest change has been fulfilled, has used appropriate data types in th
 This is the feedback I recieved from Adarsha after changing the variable types for the capacity variables, I am happy with this feedback as the branch can now be merged and the code is better.
 
 __Feedback I gave__
+
+The feedback I gave to Adarsha was very positive, there were no issues with the cleanliness of his code as far as I could see. 
 
 __Reflection__
 I feel that I am still improving my clean code skills and familiarity with .NET MAUI each week and I now feel I am confident enough to go back and improve my old code, which is pleasing. 
