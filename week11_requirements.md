@@ -62,4 +62,6 @@ This is the feedback I recieved from Adarsha after changing the variable types f
 __Feedback I gave__
 
 __Reflection__
+I feel that I am still improving my clean code skills and familiarity with .NET MAUI each week and I now feel I am confident enough to go back and improve my old code, which is pleasing. 
+
 
