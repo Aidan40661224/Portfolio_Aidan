@@ -64,6 +64,7 @@ I believe KISS, YAGNI, and DRY have been followed well, and that my variables fo
 
 __Feedback I recieved__
 
+The only feedback I recieved this week was that summary comments could be used to help describe what classes are doing, however I didn't feel these were necessary as they are relatively simple ones and in my opinion the code is quite self descriptive.
 
 __Feedback I gave__
 
